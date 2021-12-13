@@ -21,6 +21,7 @@
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/devbyteviewer/database/Room.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/devbyteviewer/database/Room.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/devbyteviewer/network/DataTransferObjects.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/devbyteviewer/network/DataTransferObjects.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/devbyteviewer/repository/VideosRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/devbyteviewer/repository/VideosRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/devbyteviewer/viewmodels/DevByteViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/devbyteviewer/viewmodels/DevByteViewModel.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
